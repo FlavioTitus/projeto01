@@ -10,7 +10,9 @@
   "author": "flavio",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.2"
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "winston": "^3.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
